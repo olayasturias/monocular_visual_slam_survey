@@ -1,9 +1,16 @@
 #!/bin/bash
 datasetRoot=$HOME/Datasets
 
-echo "########################################################################"
-echo "############################# DF-VO ###################################"
-echo "########################################################################"
+echo "####################################################################################"
+echo "# Algorithm 1: DF-VO ###############################################################"
+echo "####################################################################################"
+
+echo "#### 1.1 dataset TUM-RGBD ########################################################"
+datasetName=TUM
+tracks='rgbd_dataset_freiburg1_360'
+./generate_dfvo_configs.sh $datasetName $datasetRoot "${tracks[@]}" ../algorithms/DF-VO/model_zoo
+export PYTHONPATH="${PYTHONPATH}:$PWD/../algorithms/DF-VO"
+./run_dfvo.sh $datasetName $datasetRoot "${tracks[@]}" 
 
 echo "############################# MIMIR ####################################"
 # datasetName=MIMIR
