@@ -55,4 +55,18 @@ do
     . temp.yml
     rm -f temp.yml
   fi
+    if [[ $datasetName == *"Aqualoc"* ]]; then
+    export sequence_name=$track
+    mkdir --parents ../configs/DFVO/"$datasetName"/"$seqname"
+    mkdir --parents "../results/DFVO/"$datasetName"/"$seqname
+    mkdir --parents ../configs/DFVO/"$datasetName"/"$track"
+    export result_directory="../results/DFVO/"$datasetName"/"$track
+    export dataset_directory=$datasetRoot"/"$datasetName
+    ( echo "cat <<EOF >../configs/DFVO/"$datasetName"/"$seqname"/"$track".yml";
+      cat ../algorithms/DF-VO/options/examples/"$datasetName"/default_configuration.yml;
+      echo "EOF";
+    ) >temp.yml
+    . temp.yml
+    rm -f temp.yml
+  fi
 done
