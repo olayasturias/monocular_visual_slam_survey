@@ -11,12 +11,27 @@ do
     export sequence_name=$track
     export result_directory="../results/DFVO/"$datasetName"/"$sequence_name
     export dataset_directory=$datasetRoot"/"$datasetName
-    ( echo "cat <<EOF >configs/DFVO/"$datasetName"/"$sequence_name".yml";
+    ( echo "cat <<EOF >../configs/DFVO/"$datasetName"/"$sequence_name".yml";
       cat ../algorithms/DF-VO/options/examples/"$datasetName"/default_configuration.yml;
       echo "EOF";
     ) >temp.yml
     . temp.yml
     rm -f temp.yml
-   fi
+  fi
+  if [[ $datasetName == *"MIMIR"* ]]; then
+    export seqname="$(dirname $track)" 
+    export trackname="$(basename $track)" 
+    mkdir --parents ../configs/DFVO/"$datasetName"/"$seqname"
+    mkdir --parents "../results/DFVO/"$datasetName"/"$seqname
+    export result_directory="../results/DFVO/"$datasetName"/"$track
+    export dataset_directory=$datasetRoot"/"$datasetName
+    export sequence_name="$track"
+    ( echo "cat <<EOF >../configs/DFVO/"$datasetName"/"$seqname"/"$trackname".yml";
+      cat ../algorithms/DF-VO/options/examples/"$datasetName"/default_configuration.yml;
+      echo "EOF";
+    ) >temp.yml
+    . temp.yml
+    rm -f temp.yml
+  fi
 
 done

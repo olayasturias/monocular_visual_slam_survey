@@ -8,16 +8,16 @@ echo "########################################################################"
 echo "############################# MIMIR ####################################"
 # datasetName=MIMIR
 # tracks='SeaFloor/track0'
-# ./generate_dfvo_configs.sh $datasetName $datasetRoot "${tracks[@]}" ../algorithms/DF-VO/model_zoo "${tracks[@]}"
+# ./generate_dfvo_configs.sh $datasetName $datasetRoot "${tracks[@]}" ../algorithms/DF-VO/model_zoo
 # export PYTHONPATH="${PYTHONPATH}:$PWD/../algorithms/DF-VO"
 # ./run_dfvo.sh $datasetName $datasetRoot "${tracks[@]}" 
 
 echo "############################# EuRoC ####################################"
-datasetName=EuRoC
-tracks='MH_04_difficult'
-./generate_dfvo_configs.sh $datasetName $datasetRoot "${tracks[@]}" ../algorithms/DF-VO/model_zoo
-export PYTHONPATH="${PYTHONPATH}:$PWD/../algorithms/DF-VO"
-./run_dfvo.sh $datasetName $datasetRoot "${tracks[@]}"
+# datasetName=EuRoC
+# tracks='MH_04_difficult'
+# ./generate_dfvo_configs.sh $datasetName $datasetRoot "${tracks[@]}" ../algorithms/DF-VO/model_zoo
+# export PYTHONPATH="${PYTHONPATH}:$PWD/../algorithms/DF-VO"
+# ./run_dfvo.sh $datasetName $datasetRoot "${tracks[@]}"
 
 echo "######################## Aqualoc  dataset ##############################"
 # datasetName=Aqualoc/Archaeological_site_sequences

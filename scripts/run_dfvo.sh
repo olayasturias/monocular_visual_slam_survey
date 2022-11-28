@@ -7,5 +7,6 @@ tracks=$3
 for track in $tracks
 do
     mkdir --parents ../results/DFVO/"$datasetName"/"$track"
-    python ../algorithms/DF-VO/apis/run.py -d configs/DFVO/$datasetName/"$track".yml
+    python ../algorithms/DF-VO/apis/run.py -d ../configs/DFVO/$datasetName/"$track".yml \
+    --no_confirm
 done
