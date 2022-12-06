@@ -10826,8 +10826,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="91.785714"
-     inkscape:cy="5063.5714"
+     inkscape:cx="-23.214286"
+     inkscape:cy="5120.7143"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10877,7 +10877,7 @@
        inkscape:transform-center-x="0.14177351"
        inkscape:transform-center-y="-0.34084878"
        transform="matrix(0.42669092,0,0,0.42669092,55.43249,767.69263)"
-       inkscape:export-filename="bow.pdf"
+       inkscape:export-filename="bow-nostroke.pdf"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
     <path
