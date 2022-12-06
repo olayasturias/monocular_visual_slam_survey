@@ -17,14 +17,14 @@
   <sodipodi:namedview
      inkscape:window-maximized="1"
      inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:window-height="1412"
-     inkscape:window-width="2560"
+     inkscape:window-x="3840"
+     inkscape:window-height="1052"
+     inkscape:window-width="1920"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="-16.323125"
-     inkscape:cx="433.37528"
+     inkscape:cy="92.566829"
+     inkscape:cx="383.1442"
      inkscape:zoom="2.6290076"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -1918,7 +1918,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2201,125 +2201,125 @@
     <g
        aria-label="pik-1"
        id="g15600"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200892"
-       transform="matrix(1.3170403,0,0,1.3170403,77.180386,-36.780105)"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.121517"
+       transform="matrix(2.1773346,0,0,2.1773346,75.4052,-77.721711)"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
       <path
          d="m 2.91146,46.4293 c 0.04113,0.1283 0.06169,0.273 0.06169,0.4343 0,0.1613 -0.02056,0.2783 -0.06169,0.351 C 2.86965,47.2868 2.81584,47.3008 2.75003,47.2563 2.70891,47.2286 2.67429,47.19 2.64619,47.1406 2.6174,47.0908 2.59443,47.0277 2.5773,46.9514 v 0.4699 l 0.08739,0.059 v 0.1031 L 2.39633,47.4023 v -0.1031 l 0.08843,0.0597 V 46.1235 L 2.39633,46.0638 v -0.1031 l 0.18097,0.1221 v 0.1606 c 0.01713,-0.0532 0.0401,-0.0853 0.06889,-0.0962 0.0281,-0.0115 0.06272,-0.0033 0.10384,0.0245 0.06512,0.0439 0.11893,0.1298 0.16143,0.2576 z M 2.8292,47.0897 c 0.024,-0.0579 0.03599,-0.1575 0.03599,-0.299 0,-0.1414 -0.01199,-0.2566 -0.03599,-0.3455 C 2.80453,46.3558 2.76854,46.2952 2.72124,46.2633 2.67532,46.2323 2.63967,46.2406 2.61431,46.2883 2.58963,46.339 2.5773,46.4252 2.5773,46.5468 v 0.1012 c 0,0.1242 0.01233,0.2271 0.03701,0.3085 0.02468,0.0815 0.06032,0.1379 0.10693,0.1694 0.0473,0.0319 0.08329,0.0198 0.10796,-0.0362 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.200892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.121517"
          id="path15590" />
       <path
          d="M 3.2237,47.9449 3.04927,47.8272 v -0.0671 l 0.05747,0.0388 V 47.264 L 3.04927,47.2252 v -0.067 l 0.11762,0.0794 v 0.6019 L 3.2237,47.8779 Z M 3.16422,47.0283 c 0,0.0197 -0.00357,0.0341 -0.0107,0.043 -0.00712,0.009 -0.01581,0.01 -0.02606,0.0031 C 3.11677,47.0671 3.10808,47.0544 3.10139,47.0361 3.09382,47.0173 3.09003,46.998 3.09003,46.9782 c 0,-0.0198 0.00379,-0.034 0.01136,-0.0426 0.00669,-0.0101 0.01538,-0.0115 0.02607,-0.0043 0.00936,0.0063 0.01804,0.019 0.02606,0.0382 0.00713,0.0211 0.0107,0.0407 0.0107,0.0588 z"
-         style="font-size:65%;baseline-shift:sub;stroke-width:0.200892"
+         style="font-size:65%;baseline-shift:sub;stroke-width:0.121517"
          id="path15592" />
       <path
          d="M 3.64766,47.0413 3.47657,46.9258 v -0.067 l 0.04945,0.0334 -0.10359,-0.3445 -0.04745,0.053 v 0.1895 l 0.05414,0.0365 v 0.0671 L 3.2607,46.7801 v -0.067 l 0.05413,0.0365 V 45.9041 L 3.25736,45.8653 v -0.0671 l 0.11762,0.0794 v 0.6381 L 3.52135,46.3541 3.47122,46.3203 v -0.0671 l 0.15706,0.106 v 0.0671 L 3.5688,46.3861 3.46587,46.501 l 0.13166,0.4394 0.05013,0.0339 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.200892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.121517"
          id="path15594" />
       <path
          d="M 3.83911,46.8741 3.67203,46.7613 v -0.098 l 0.16708,0.1128 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.200892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.121517"
          id="path15596" />
       <path
          d="M 4.1986,47.4132 3.96335,47.2544 v -0.067 l 0.08488,0.0572 v -0.7811 l -0.09825,0.0562 v -0.0825 l 0.11897,-0.0679 0.04477,0.0302 v 0.8894 l 0.08488,0.0572 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.200892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.121517"
          id="path15598" />
     </g>
     <g
        id="g6056"
-       transform="matrix(1.3170403,0,0,1.3170403,-27.47045,-9.5766597)"
-       style="stroke-width:0.759278">
+       transform="matrix(2.1773346,0,0,2.1773346,-103.18637,-31.968213)"
+       style="stroke-width:0.459277">
       <path
          inkscape:export-ydpi="600"
          inkscape:export-xdpi="600"
          inkscape:connector-curvature="0"
          id="path5054-4"
          d="m 86.852869,28.637236 -0.343056,-0.311131 -0.444563,-0.061"
-         style="fill:none;stroke:#000000;stroke-width:0.0759278;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:0.0459277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="ccc"
          inkscape:transform-center-x="-0.40509736"
          inkscape:transform-center-y="-0.17499792" />
       <g
          aria-label="pik-1"
          id="g15612"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200892"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.121517"
          transform="translate(83.699621,-17.462347)"
          inkscape:export-xdpi="600"
          inkscape:export-ydpi="600">
         <path
            d="m 2.91146,46.4293 c 0.04113,0.1283 0.06169,0.273 0.06169,0.4343 0,0.1613 -0.02056,0.2783 -0.06169,0.351 C 2.86965,47.2868 2.81584,47.3008 2.75003,47.2563 2.70891,47.2286 2.67429,47.19 2.64619,47.1406 2.6174,47.0908 2.59443,47.0277 2.5773,46.9514 v 0.4699 l 0.08739,0.059 v 0.1031 L 2.39633,47.4023 v -0.1031 l 0.08843,0.0597 V 46.1235 L 2.39633,46.0638 v -0.1031 l 0.18097,0.1221 v 0.1606 c 0.01713,-0.0532 0.0401,-0.0853 0.06889,-0.0962 0.0281,-0.0115 0.06272,-0.0033 0.10384,0.0245 0.06512,0.0439 0.11893,0.1298 0.16143,0.2576 z M 2.8292,47.0897 c 0.024,-0.0579 0.03599,-0.1575 0.03599,-0.299 0,-0.1414 -0.01199,-0.2566 -0.03599,-0.3455 C 2.80453,46.3558 2.76854,46.2952 2.72124,46.2633 2.67532,46.2323 2.63967,46.2406 2.61431,46.2883 2.58963,46.339 2.5773,46.4252 2.5773,46.5468 v 0.1012 c 0,0.1242 0.01233,0.2271 0.03701,0.3085 0.02468,0.0815 0.06032,0.1379 0.10693,0.1694 0.0473,0.0319 0.08329,0.0198 0.10796,-0.0362 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.200892"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.121517"
            id="path15602" />
         <path
            d="M 3.2237,47.9449 3.04927,47.8272 v -0.0671 l 0.05747,0.0388 V 47.264 L 3.04927,47.2252 v -0.067 l 0.11762,0.0794 v 0.6019 L 3.2237,47.8779 Z M 3.16422,47.0283 c 0,0.0197 -0.00357,0.0341 -0.0107,0.043 -0.00712,0.009 -0.01581,0.01 -0.02606,0.0031 C 3.11677,47.0671 3.10808,47.0544 3.10139,47.0361 3.09382,47.0173 3.09003,46.998 3.09003,46.9782 c 0,-0.0198 0.00379,-0.034 0.01136,-0.0426 0.00669,-0.0101 0.01538,-0.0115 0.02607,-0.0043 0.00936,0.0063 0.01804,0.019 0.02606,0.0382 0.00713,0.0211 0.0107,0.0407 0.0107,0.0588 z"
-           style="font-size:65%;baseline-shift:sub;stroke-width:0.200892"
+           style="font-size:65%;baseline-shift:sub;stroke-width:0.121517"
            id="path15604" />
         <path
            d="M 3.64766,47.0413 3.47657,46.9258 v -0.067 l 0.04945,0.0334 -0.10359,-0.3445 -0.04745,0.053 v 0.1895 l 0.05414,0.0365 v 0.0671 L 3.2607,46.7801 v -0.067 l 0.05413,0.0365 V 45.9041 L 3.25736,45.8653 v -0.0671 l 0.11762,0.0794 v 0.6381 L 3.52135,46.3541 3.47122,46.3203 v -0.0671 l 0.15706,0.106 v 0.0671 L 3.5688,46.3861 3.46587,46.501 l 0.13166,0.4394 0.05013,0.0339 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.200892"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.121517"
            id="path15606" />
         <path
            d="M 3.83911,46.8741 3.67203,46.7613 v -0.098 l 0.16708,0.1128 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.200892"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.121517"
            id="path15608" />
         <path
            d="M 4.1986,47.4132 3.96335,47.2544 v -0.067 l 0.08488,0.0572 v -0.7811 l -0.09825,0.0562 v -0.0825 l 0.11897,-0.0679 0.04477,0.0302 v 0.8894 l 0.08488,0.0572 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.200892"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;baseline-shift:super;text-anchor:start;stroke-width:0.121517"
            id="path15610" />
       </g>
     </g>
     <g
        id="g6063"
-       transform="matrix(1.3170403,0,0,1.3170403,-40.39501,-7.8772095)"
-       style="stroke-width:0.759278">
+       transform="matrix(2.1773346,0,0,2.1773346,-149.92961,-29.543134)"
+       style="stroke-width:0.459277">
       <path
          inkscape:export-ydpi="600"
          inkscape:export-xdpi="600"
          inkscape:connector-curvature="0"
          id="path5054"
          d="m 127.97056,23.537567 -0.48886,0.08543 -0.34966,0.307243"
-         style="fill:none;stroke:#000000;stroke-width:0.0759278;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:0.0459277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="ccc" />
       <g
          aria-label="pik"
          id="g15645"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200892"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.121517"
          transform="translate(65.789891,-27.131657)"
          inkscape:export-xdpi="600"
          inkscape:export-ydpi="600">
         <path
            d="m 62.1593,51.0744 c 0.0592,0.0605 0.0888,0.1714 0.0888,0.3327 0,0.1613 -0.0296,0.3121 -0.0888,0.4526 -0.0603,0.1411 -0.1378,0.2436 -0.2325,0.3076 -0.0593,0.04 -0.1091,0.0585 -0.1496,0.0554 -0.0415,-0.0024 -0.0745,-0.0277 -0.0992,-0.0758 v 0.4699 l 0.1259,-0.0849 v 0.1031 l -0.3866,0.2609 v -0.1031 l 0.1274,-0.086 v -1.2354 l -0.1274,0.086 v -0.1031 l 0.2607,-0.176 v 0.1606 c 0.0247,-0.0814 0.0577,-0.1513 0.0992,-0.2097 0.0405,-0.0577 0.0903,-0.1066 0.1496,-0.1466 0.0938,-0.0633 0.1713,-0.066 0.2325,-0.0082 z m -0.1185,0.7958 c 0.0346,-0.0973 0.0518,-0.2167 0.0518,-0.3582 0,-0.1414 -0.0172,-0.2368 -0.0518,-0.2862 -0.0355,-0.0488 -0.0874,-0.0501 -0.1555,-0.0041 -0.0661,0.0446 -0.1175,0.1117 -0.154,0.2011 -0.0356,0.0914 -0.0533,0.1979 -0.0533,0.3195 v 0.1012 c 0,0.1242 0.0177,0.2068 0.0533,0.2476 0.0355,0.0407 0.0869,0.0385 0.154,-0.0068 0.0681,-0.046 0.12,-0.1174 0.1555,-0.2141 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.200892"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.121517"
            id="path15639" />
         <path
            d="m 62.609,52.0757 -0.2513,0.1695 v -0.067 l 0.0828,-0.0559 v -0.5349 l -0.0828,0.0559 v -0.067 l 0.1695,-0.1144 v 0.602 L 62.609,52.0086 Z M 62.5233,51.257 c 0,0.0198 -0.0051,0.04 -0.0154,0.0607 -0.0103,0.0207 -0.0228,0.036 -0.0375,0.0459 -0.0154,0.0104 -0.0279,0.012 -0.0376,0.0048 -0.0109,-0.0064 -0.0163,-0.0195 -0.0163,-0.0393 0,-0.0197 0.0054,-0.0402 0.0163,-0.0613 0.0097,-0.0211 0.0222,-0.0368 0.0376,-0.0472 0.0134,-0.0091 0.026,-0.0107 0.0375,-0.0048 0.0103,0.0094 0.0154,0.0232 0.0154,0.0412 z"
-           style="font-size:65%;baseline-shift:sub;stroke-width:0.200892"
+           style="font-size:65%;baseline-shift:sub;stroke-width:0.121517"
            id="path15641" />
         <path
            d="M 63.2196,50.4737 62.9732,50.64 v -0.067 l 0.0712,-0.0481 -0.1492,-0.1738 -0.0683,0.1312 v 0.1895 l 0.0779,-0.0527 v 0.0671 l -0.2425,0.1637 v -0.067 l 0.0779,-0.0527 v -0.8455 l -0.0827,0.0559 v -0.067 l 0.1694,-0.1144 v 0.638 l 0.2108,-0.4026 -0.0722,0.0487 v -0.067 l 0.2262,-0.1527 v 0.067 l -0.0857,0.0578 -0.1482,0.2844 0.1896,0.2226 0.0722,-0.0487 z"
-           style="font-size:65%;baseline-shift:super;stroke-width:0.200892"
+           style="font-size:65%;baseline-shift:super;stroke-width:0.121517"
            id="path15643" />
       </g>
     </g>
     <g
        aria-label="pik"
        id="g15653"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.200892"
-       transform="matrix(1.3170403,0,0,1.3170403,41.613124,-39.700218)"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.121517"
+       transform="matrix(2.1773346,0,0,2.1773346,-11.767268,-80.510962)"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600">
       <path
          d="m 62.1593,51.0744 c 0.0592,0.0605 0.0888,0.1714 0.0888,0.3327 0,0.1613 -0.0296,0.3121 -0.0888,0.4526 -0.0603,0.1411 -0.1378,0.2436 -0.2325,0.3076 -0.0593,0.04 -0.1091,0.0585 -0.1496,0.0554 -0.0415,-0.0024 -0.0745,-0.0277 -0.0992,-0.0758 v 0.4699 l 0.1259,-0.0849 v 0.1031 l -0.3866,0.2609 v -0.1031 l 0.1274,-0.086 v -1.2354 l -0.1274,0.086 v -0.1031 l 0.2607,-0.176 v 0.1606 c 0.0247,-0.0814 0.0577,-0.1513 0.0992,-0.2097 0.0405,-0.0577 0.0903,-0.1066 0.1496,-0.1466 0.0938,-0.0633 0.1713,-0.066 0.2325,-0.0082 z m -0.1185,0.7958 c 0.0346,-0.0973 0.0518,-0.2167 0.0518,-0.3582 0,-0.1414 -0.0172,-0.2368 -0.0518,-0.2862 -0.0355,-0.0488 -0.0874,-0.0501 -0.1555,-0.0041 -0.0661,0.0446 -0.1175,0.1117 -0.154,0.2011 -0.0356,0.0914 -0.0533,0.1979 -0.0533,0.3195 v 0.1012 c 0,0.1242 0.0177,0.2068 0.0533,0.2476 0.0355,0.0407 0.0869,0.0385 0.154,-0.0068 0.0681,-0.046 0.12,-0.1174 0.1555,-0.2141 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.200892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.73125px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.121517"
          id="path15647" />
       <path
          d="m 62.609,52.0757 -0.2513,0.1695 v -0.067 l 0.0828,-0.0559 v -0.5349 l -0.0828,0.0559 v -0.067 l 0.1695,-0.1144 v 0.602 L 62.609,52.0086 Z M 62.5233,51.257 c 0,0.0198 -0.0051,0.04 -0.0154,0.0607 -0.0103,0.0207 -0.0228,0.036 -0.0375,0.0459 -0.0154,0.0104 -0.0279,0.012 -0.0376,0.0048 -0.0109,-0.0064 -0.0163,-0.0195 -0.0163,-0.0393 0,-0.0197 0.0054,-0.0402 0.0163,-0.0613 0.0097,-0.0211 0.0222,-0.0368 0.0376,-0.0472 0.0134,-0.0091 0.026,-0.0107 0.0375,-0.0048 0.0103,0.0094 0.0154,0.0232 0.0154,0.0412 z"
-         style="font-size:65%;baseline-shift:sub;stroke-width:0.200892"
+         style="font-size:65%;baseline-shift:sub;stroke-width:0.121517"
          id="path15649" />
       <path
          d="M 63.2196,50.4737 62.9732,50.64 v -0.067 l 0.0712,-0.0481 -0.1492,-0.1738 -0.0683,0.1312 v 0.1895 l 0.0779,-0.0527 v 0.0671 l -0.2425,0.1637 v -0.067 l 0.0779,-0.0527 v -0.8455 l -0.0827,0.0559 v -0.067 l 0.1694,-0.1144 v 0.638 l 0.2108,-0.4026 -0.0722,0.0487 v -0.067 l 0.2262,-0.1527 v 0.067 l -0.0857,0.0578 -0.1482,0.2844 0.1896,0.2226 0.0722,-0.0487 z"
-         style="font-size:65%;baseline-shift:super;stroke-width:0.200892"
+         style="font-size:65%;baseline-shift:super;stroke-width:0.121517"
          id="path15651" />
     </g>
   </g>
