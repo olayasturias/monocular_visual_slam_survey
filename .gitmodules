@@ -1,3 +1,12 @@
 [submodule "algorithms/ORB_SLAM3"]
 	path = algorithms/ORB_SLAM3
 	url = git@github.com:olayasturias/ORB_SLAM3.git
+[submodule "algorithms/DF-VO"]
+	path = algorithms/DF-VO
+	url = https://github.com/olayasturias/DF-VO
+[submodule "algorithms/TrianFlow"]
+	path = algorithms/TrianFlow
+	url = https://github.com/olayasturias/TrianFlow
+[submodule "algorithms/DSO"]
+	path = algorithms/DSO
+	url = https://github.com/olayasturias/DSO
