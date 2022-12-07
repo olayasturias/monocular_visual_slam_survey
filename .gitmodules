@@ -1,9 +1,0 @@
-[submodule "algorithms/DF-VO"]
-	path = algorithms/DF-VO
-	url = https://github.com/olayasturias/DF-VO
-[submodule "algorithms/TrianFlow"]
-	path = algorithms/TrianFlow
-	url = https://github.com/olayasturias/TrianFlow
-[submodule "algorithms/dso"]
-	path = algorithms/dso
-	url = https://github.com/olayasturias/dso
