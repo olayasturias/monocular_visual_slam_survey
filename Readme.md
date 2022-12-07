@@ -66,7 +66,7 @@ cd algorithms/ORB_SLAM3
 ./build.sh
 ```
 
-Note: for Pangolin and Eigen I recommend you to follow the instructions [in this post](https://olayasturias.github.io/ros/slam/survey/2022/03/01/slam-surveying-install.html)
+Note: for Pangolin and Eigen I recommend you to follow the instructions [in this post](https://olayasturias.github.io/ros/slam/survey/2022/03/01/slam-surveying-install.html). Tested with Eigen3.4 and Pangolin v0.6.
 ### 2.4 DSO
 Install the requirements indicated in the README. Once you've done that, build DSO as:
 ```bash
@@ -76,4 +76,4 @@ cd build
 cmake ..
 make -j4
 ```
-Note: for Pangolin and Eigen I recommend you to follow the instructions [in this post](https://olayasturias.github.io/ros/slam/survey/2022/03/01/slam-surveying-install.html)
+Note: for Pangolin and Eigen I recommend you to follow the instructions [in this post](https://olayasturias.github.io/ros/slam/survey/2022/03/01/slam-surveying-install.html). Tested with Eigen3.4 and Pangolin v0.6.
