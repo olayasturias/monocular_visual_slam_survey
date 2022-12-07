@@ -17,6 +17,7 @@ fi
 if [[ $datasetName == *"MIMIR"* ]]; then
   configfile=../algorithms/ORB_SLAM3/Examples/Monocular/MIMIR.yaml
   resultfile=kf_out.txt
+  echo ../algorithms/ORB_SLAM3/Examples/Monocular/mono_mimir $orb_vocab $configfile "$datasetRoot"/MIMIR/"$track"/auv0/rgb/cam0/data ../algorithms/ORB_SLAM3/Examples/Monocular/MIMIR_TimeStamps/"$track"/timestamps.txt out
   ../algorithms/ORB_SLAM3/Examples/Monocular/mono_mimir $orb_vocab $configfile "$datasetRoot"/MIMIR/"$track"/auv0/rgb/cam0/data ../algorithms/ORB_SLAM3/Examples/Monocular/MIMIR_TimeStamps/"$track"/timestamps.txt out
 fi
 

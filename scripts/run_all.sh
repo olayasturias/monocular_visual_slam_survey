@@ -4,15 +4,15 @@ datasetRoot=$HOME/Olaya-data/Datasets
 CONDA_BASE=$(conda info --base)
 source "$CONDA_BASE"/etc/profile.d/conda.sh
 
-export RUN_ORB=false
-export RUN_DFVO=true
+export RUN_ORB=true
+export RUN_DFVO=false
 export RUN_TrianFlow=false
 export RUN_DSO=false
 
-# export MIMIR_tracks='SeaFloor/track0'
+export MIMIR_tracks='SeaFloor/track0'
 export AQUALOC_tracks='1'
-# export EUROC_tracks='MH_04_difficult'
-# export TUM_tracks='rgbd_dataset_freiburg1_360'
+export EUROC_tracks='MH_04_difficult'
+export TUM_tracks='rgbd_dataset_freiburg1_360'
 
 if [ "$RUN_ORB" = true ] ; then
     echo "########################################################################"
