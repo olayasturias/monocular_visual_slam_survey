@@ -1,0 +1,2140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="pipeline-new.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm"
+   inkscape:export-filename="pipeline-new.pdf"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1365">
+      <stop
+         style="stop-color:#aaccee;stop-opacity:1;"
+         offset="0"
+         id="stop1361" />
+      <stop
+         style="stop-color:#ffb09b;stop-opacity:1"
+         offset="1"
+         id="stop1363" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="marker78615"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       viewBox="0 0 6.9304588 5.1962256"
+       markerWidth="6.9304581"
+       markerHeight="5.1962252"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path78613" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker68167"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:#000000;fill-rule:evenodd;fill:context-stroke;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path68165" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker68157"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:#000000;fill-rule:evenodd;fill:context-stroke;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path68155" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1871" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8567"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8565"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8557"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8555"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8547"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8545"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker8537"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:#000000;fill-rule:evenodd;fill:context-stroke;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path8535" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker8527"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:#000000;fill-rule:evenodd;fill:context-stroke;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path8525" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5445"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5443"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5441"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5439"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5182"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5435"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5433"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker24435"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path24433" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker58341"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path58339"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1776"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1774"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1780"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1778"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker31916"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path31914"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11281"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11279"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker41935"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path41933" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8049-8"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8047-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8059-2"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8057-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8069-5"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8067-4"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker8079-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1;fill-opacity:1"
+         id="path8077-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker68157-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path68155-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker68167-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path68165-3" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1365"
+       id="linearGradient1369"
+       gradientUnits="userSpaceOnUse"
+       x1="-418.07928"
+       y1="-19.592852"
+       x2="-418.07928"
+       y2="18.431551" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.96166522"
+     inkscape:cx="299.48052"
+     inkscape:cy="319.23791"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-midpoints="true"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="-3.711129"
+       x="-53.359737"
+       height="79.489555"
+       width="194.79724"
+       id="rect108618-9"
+       style="fill:#f4fafc;fill-opacity:1;stroke:#5f89d3;stroke-width:0.271623;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <rect
+       y="1.6887574"
+       x="-45.152679"
+       height="48.654194"
+       width="178.47548"
+       id="rect108620-0"
+       style="fill:#dcf0f5;fill-opacity:1;stroke:#5f89d3;stroke-width:0.281894;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <text
+       id="text108746-9"
+       y="0.081462674"
+       x="-50.086479"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="0.081462674"
+         x="-50.086479"
+         id="tspan108744-5"
+         sodipodi:role="line">2. Front-end</tspan></text>
+    <rect
+       y="25.487129"
+       x="-4.332109"
+       height="16.350142"
+       width="113.43033"
+       id="rect1420"
+       style="fill:#bbe3ed;fill-opacity:1;stroke:#7398d9;stroke-width:0.262226;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <rect
+       style="fill:#fffaf3;fill-opacity:1;stroke:#ee5000;stroke-width:0.286224;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect108858-0"
+       width="194.78246"
+       height="75.490662"
+       x="-53.352356"
+       y="77.321213"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <rect
+       y="80.558464"
+       x="-3.3617313"
+       height="62.664318"
+       width="139.89894"
+       id="rect108860-1"
+       style="fill:#ffe7d9;fill-opacity:1;stroke:#ee5000;stroke-width:0.261335;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-50.058918"
+       y="81.338745"
+       id="text108868-6"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         sodipodi:role="line"
+         id="tspan108866-4"
+         x="-50.058918"
+         y="81.338745"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">3. Back-end</tspan></text>
+    <text
+       id="text108872-8"
+       y="84.77285"
+       x="-0.66399121"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="84.77285"
+         x="-0.66399121"
+         id="tspan108870-5"
+         sodipodi:role="line">3.2 Optimization-based</tspan></text>
+    <g
+       transform="matrix(2.4334199,0,0,0.14650586,1061.0054,46.173946)"
+       id="g108750-6"
+       style="fill:#aaccee;fill-opacity:1;stroke-width:1.69753"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png">
+      <rect
+         y="-19.592852"
+         x="-453.57123"
+         height="38.024403"
+         width="70.983902"
+         id="rect108748-8"
+         style="opacity:1;fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.449847;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       id="text108754-9"
+       y="47.274231"
+       x="41.340664"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="47.274231"
+         x="41.340664"
+         sodipodi:role="line"
+         id="tspan79613">4.4 End-to-end front-end</tspan></text>
+    <text
+       id="text108742-1"
+       y="6.2493773"
+       x="-42.734257"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="6.2493773"
+         x="-42.734257"
+         id="tspan108740-7"
+         sodipodi:role="line">2.1 Tracking</tspan></text>
+    <g
+       id="g9213">
+      <rect
+         style="opacity:0.832526;fill:#bbe3ed;fill-opacity:1;stroke:#5f89d3;stroke-width:0.257596;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect211708-6"
+         width="18.183989"
+         height="38.052509"
+         x="111.65012"
+         y="3.7870755"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
+      <text
+         id="text108688-3"
+         y="19.216063"
+         x="120.77054"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="19.216063"
+           x="120.77054"
+           sodipodi:role="line"
+           id="tspan205701-8">Local </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="23.675467"
+           x="120.77054"
+           sodipodi:role="line"
+           id="tspan9204">bundle </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="28.134871"
+           x="120.77054"
+           sodipodi:role="line"
+           id="tspan9206">adjustment</tspan></text>
+    </g>
+    <g
+       id="g78537"
+       transform="translate(430.27026,-360.31283)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="use8837-8-4"
+         style="fill:#aaccee;stroke:none;stroke-width:1.09711"
+         transform="matrix(0.67471771,0,0,0.74870736,-470.64575,369.2315)"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600">
+        <title
+           id="title104625-5-3">Decision</title>
+        <desc
+           id="desc104627-0-1">A decision or switching type operation.</desc>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 3.96875,19.84375 15.875,-10.5833333 15.875,10.5833333 -15.875,10.583333 z"
+           style="stroke-width:5.02761"
+           id="path104629-9-9" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.171726"
+         x="-457.22919"
+         y="381.93848"
+         id="text8855-6-1"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"><tspan
+           sodipodi:role="line"
+           id="tspan8853-3-0"
+           x="-457.22919"
+           y="381.93848"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.171726">motion</tspan><tspan
+           sodipodi:role="line"
+           x="-457.22919"
+           y="386.39789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.171726"
+           id="tspan109744-9">constraints</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.05;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-15.949328"
+       y="10.783264"
+       id="text114742-4"
+       transform="rotate(0.067737)"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan114740-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-15.949328"
+         y="10.783264">reprojection</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-15.949328"
+         y="14.487432"
+         id="tspan114744-6">error</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.05;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-16.19326"
+       y="32.347389"
+       id="text118558-2"
+       transform="rotate(-0.429499)"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan118556-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-16.19326"
+         y="32.347389">photometric</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="-16.19326"
+         y="36.051556"
+         id="tspan118560-9">error</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8079-3)"
+       d="m -26.986555,16.224515 v -4.40584 l 21.5974895,0.0454"
+       id="path154605-8"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       y="3.7893903"
+       x="-4.332109"
+       height="16.350142"
+       width="113.43033"
+       id="rect108622-7"
+       style="fill:#bbe3ed;fill-opacity:1;stroke:#7398d9;stroke-width:0.262226;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <g
+       id="g78104"
+       transform="translate(403.97365,-343.2331)">
+      <g
+         id="g77554"
+         transform="matrix(0.32589723,0,0,0.36566772,-173.12228,355.41062)"
+         style="fill:#aaccee;fill-opacity:1;stroke-width:2.89676">
+        <rect
+           style="opacity:1;fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.81073;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect77552"
+           width="79.174522"
+           height="38.024403"
+           x="-457.66653"
+           y="-19.592852" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-309.38376"
+         y="351.93863"
+         id="text108678-7"><tspan
+           sodipodi:role="line"
+           x="-309.38376"
+           y="351.93863"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan108672-9">Pose estimation</tspan><tspan
+           sodipodi:role="line"
+           x="-309.38376"
+           y="356.34836"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+           id="tspan108674-1">reprojection error</tspan><tspan
+           sodipodi:role="line"
+           x="-309.38376"
+           y="360.75809"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+           id="tspan108676-9">minimization</tspan></text>
+    </g>
+    <text
+       transform="rotate(-90)"
+       id="text108694-4"
+       y="0.0033166159"
+       x="-11.999854"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="0.0033166159"
+         x="-11.999855"
+         id="tspan108690-6"
+         sodipodi:role="line">Indirect</tspan><tspan
+         id="tspan108692-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="4.4130416"
+         x="-11.999854"
+         sodipodi:role="line">2.1.3</tspan></text>
+    <g
+       id="g78096"
+       transform="translate(404.73177,-343.23312)">
+      <g
+         id="g78052"
+         transform="matrix(0.32589723,0,0,0.36566772,-200.41819,355.41064)"
+         style="fill:#aaccee;fill-opacity:1;stroke-width:2.89676">
+        <rect
+           style="opacity:1;fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.716294;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect78050"
+           width="61.803871"
+           height="38.024403"
+           x="-448.9812"
+           y="-19.592852" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-336.65143"
+         y="353.81366"
+         id="text108664-1"><tspan
+           sodipodi:role="line"
+           x="-336.65143"
+           y="353.81366"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan108660-8">Outlier</tspan><tspan
+           sodipodi:role="line"
+           x="-336.65143"
+           y="358.27307"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan108662-8">rejection</tspan></text>
+    </g>
+    <g
+       id="g78089"
+       transform="translate(405.38629,-343.23312)">
+      <g
+         id="g78068"
+         transform="matrix(0.32589723,0,0,0.36566772,-224.98845,355.41064)"
+         style="fill:#aaccee;fill-opacity:1;stroke-width:2.89676">
+        <rect
+           style="opacity:1;fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.72367;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect78066"
+           width="63.08326"
+           height="38.024403"
+           x="-449.62091"
+           y="-19.592852" />
+      </g>
+      <text
+         id="text108652-6"
+         y="354.14349"
+         x="-361.27814"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="354.14349"
+           x="-361.27814"
+           id="tspan108646-2"
+           sodipodi:role="line">Feature</tspan><tspan
+           id="tspan108648-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="358.60291"
+           x="-361.27814"
+           sodipodi:role="line">association</tspan><tspan
+           id="tspan108650-2"
+           y="363.01263"
+           x="-361.27814"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmr10;-inkscape-font-specification:cmr10" /></text>
+    </g>
+    <g
+       id="g78081"
+       transform="translate(404.54494,-343.23312)">
+      <g
+         id="g78072"
+         transform="matrix(0.32589723,0,0,0.36566772,-249.55872,355.41062)"
+         style="fill:#aaccee;fill-opacity:1;stroke-width:2.89676">
+        <rect
+           style="opacity:1;fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.76765;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect78070"
+           width="70.983902"
+           height="38.024403"
+           x="-453.57123"
+           y="-19.592852" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-385.82724"
+         y="351.93686"
+         id="text108638-0"><tspan
+           sodipodi:role="line"
+           id="tspan108630-5"
+           x="-385.82724"
+           y="351.93686"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Feature</tspan><tspan
+           sodipodi:role="line"
+           x="-385.82724"
+           y="356.39627"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan108632-0">extraction</tspan><tspan
+           sodipodi:role="line"
+           x="-385.82724"
+           y="360.85565"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan108634-4">2.1.1</tspan><tspan
+           sodipodi:role="line"
+           x="-385.82724"
+           y="365.26538"
+           id="tspan108636-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:cmr10;-inkscape-font-specification:cmr10" /></text>
+    </g>
+    <text
+       transform="rotate(-90)"
+       id="text108702-2"
+       y="-0.034579542"
+       x="-33.618343"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="-0.034579542"
+         x="-33.618343"
+         id="tspan108698-7"
+         sodipodi:role="line">Direct</tspan><tspan
+         id="tspan108700-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="4.3751454"
+         x="-33.618343"
+         sodipodi:role="line">2.1.2</tspan></text>
+    <g
+       id="g77971"
+       transform="translate(406.13244,-382.54058)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="409.29871"
+         x="-323.71796"
+         height="13.658471"
+         width="25.087391"
+         id="rect108718-7"
+         style="fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text108738-3"
+         y="412.8718"
+         x="-311.17603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"
+         inkscape:export-xdpi="400"
+         inkscape:export-ydpi="400"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="412.8718"
+           x="-311.17603"
+           id="tspan108732-4"
+           sodipodi:role="line">Pose estimation</tspan><tspan
+           id="tspan108734-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+           y="417.28152"
+           x="-311.17603"
+           sodipodi:role="line">photometric error </tspan><tspan
+           id="tspan108736-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+           y="421.69125"
+           x="-311.17603"
+           sodipodi:role="line">minimization</tspan></text>
+    </g>
+    <text
+       id="text108708-1"
+       y="28.522274"
+       x="30.5079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="28.522274"
+         x="30.5079"
+         id="tspan108706-0"
+         sodipodi:role="line">Sparse</tspan></text>
+    <text
+       id="text108712-0"
+       y="33.184933"
+       x="30.5079"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="33.184933"
+         x="30.5079"
+         id="tspan108710-6"
+         sodipodi:role="line">Semi-dense</tspan></text>
+    <text
+       id="text108716-4"
+       y="37.057404"
+       x="30.599636"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+         y="37.057404"
+         x="30.599636"
+         id="tspan108714-4"
+         sodipodi:role="line">Dense</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path108988-6"
+       d="m 28.183115,33.601745 h 27.8204"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8049-8)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8059-2)"
+       d="m 22.775695,29.741045 h 33.11252"
+       id="path108986-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8069-5)"
+       d="m 22.773195,37.433195 h 33.00021"
+       id="path108990-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <g
+       id="g77955"
+       transform="translate(404.54494,-382.71316)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g77936"
+         transform="translate(0,0.10006739)">
+        <rect
+           y="414.13379"
+           x="-348.03842"
+           height="4.1333179"
+           width="24.320467"
+           id="rect154486-9"
+           style="fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-xdpi="600"
+           inkscape:export-ydpi="600"
+           inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+        <text
+           id="text108764-9"
+           y="417.0224"
+           x="-347.09256"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"
+           inkscape:export-xdpi="600"
+           inkscape:export-ydpi="600"
+           inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             y="417.0224"
+             x="-347.09256"
+             id="tspan108762-1"
+             sodipodi:role="line">Gradient pixel</tspan></text>
+      </g>
+      <g
+         id="g77931">
+        <rect
+           y="409.47128"
+           x="-348.03842"
+           height="4.1333179"
+           width="24.320467"
+           id="rect77888"
+           style="fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-xdpi="600"
+           inkscape:export-ydpi="600"
+           inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+        <text
+           id="text108760-1"
+           y="412.32111"
+           x="-343.1149"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"
+           inkscape:export-xdpi="600"
+           inkscape:export-ydpi="600"
+           inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             y="412.32111"
+             x="-343.1149"
+             id="tspan108758-5"
+             sodipodi:role="line">Keypoints</tspan></text>
+      </g>
+      <g
+         id="g77941">
+        <rect
+           y="418.99643"
+           x="-348.03842"
+           height="4.1333179"
+           width="24.320467"
+           id="rect77890"
+           style="fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:export-xdpi="600"
+           inkscape:export-ydpi="600"
+           inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+        <text
+           id="text108768-2"
+           y="421.88507"
+           x="-342.73688"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"
+           inkscape:export-xdpi="600"
+           inkscape:export-ydpi="600"
+           inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             y="421.88507"
+             x="-342.73688"
+             id="tspan108766-1"
+             sodipodi:role="line">All pixels</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g77964"
+       transform="translate(403.72521,-382.54058)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g150688-1"
+         style="fill:#aaccee;stroke:none;stroke-width:1.11164"
+         transform="matrix(0.67697521,0,0,0.72682738,-399.24334,401.70495)"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600">
+        <title
+           id="title150682-7">Decision</title>
+        <desc
+           id="desc150684-7">A decision or switching type operation.</desc>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 3.96875,19.84375 15.875,-10.5833333 15.875,10.5833333 -15.875,10.583333 z"
+           style="stroke-width:5.09421"
+           id="path150686-4" />
+      </g>
+      <text
+         id="text108772-1"
+         y="415.08981"
+         x="-385.87314"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="415.08981"
+           x="-385.87314"
+           id="tspan108770-1"
+           sodipodi:role="line">Feature </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="419.54922"
+           x="-385.87314"
+           sodipodi:role="line"
+           id="tspan152554-9">selection</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m -26.986555,31.191715 v 2.48625 l 21.5974895,-0.0256"
+       id="path78611"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#ffcdac;fill-opacity:1;stroke:#ee5000;stroke-width:0.245882;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8"
+       id="rect108862-2"
+       width="95.25341"
+       height="25.065619"
+       x="34.047421"
+       y="86.702065"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <text
+       id="text108886-2"
+       y="90.31868"
+       x="39.132343"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         id="tspan108884-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="90.31868"
+         x="39.132343"
+         sodipodi:role="line">3.2.3   Loop closing and graph optimization</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="59.736774"
+       y="95.654388"
+       id="text374221-3"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan374219-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="59.736774"
+         y="95.654388">Rigid body transformations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="81.2528"
+       y="105.06402"
+       id="text381367-8"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan381365-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="81.2528"
+         y="105.06402">Rigid body transformations</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="81.2528"
+         y="109.47374"
+         id="tspan381369-0">Reprojection error</tspan></text>
+    <rect
+       style="fill:#ffb09b;fill-opacity:1;stroke:none;stroke-width:0.239905;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect108972-8"
+       width="20.279827"
+       height="8.1972523"
+       x="105.49032"
+       y="93.172806"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       id="text108966-6"
+       y="95.948532"
+       x="115.61298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="95.948532"
+         x="115.61298"
+         id="tspan108964-8"
+         sodipodi:role="line">Pose graph</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="100.35825"
+         x="115.61298"
+         sodipodi:role="line"
+         id="tspan4226">optimization</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="104.76798"
+         x="115.61298"
+         sodipodi:role="line"
+         id="tspan313011-2" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker68157-5)"
+       d="M 53.422973,97.271555 H 104.57829"
+       id="path402147-9"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker68167-7)"
+       d="m 54.22004,106.23653 h 50.32188"
+       id="path402229-2"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g80319"
+       transform="translate(138.7171,-466.42377)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g358315-9"
+         style="fill:#ffb09b;fill-opacity:1;stroke:none;stroke-width:1.17621"
+         transform="matrix(0.85331305,0,0,0.8470828,-107.65445,550.31673)">
+        <title
+           id="title358309-3">Decision</title>
+        <desc
+           id="desc358311-1">A decision or switching type operation.</desc>
+        <path
+           inkscape:connector-curvature="0"
+           d="m 3.96875,19.84375 15.875,-10.5833333 15.875,10.5833333 -15.875,10.583333 z"
+           style="fill:#ffb09b;fill-opacity:1;stroke-width:4.88728"
+           id="path358313-3" />
+      </g>
+      <text
+         id="text358319-8"
+         y="566.03418"
+         x="-90.746216"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="566.03418"
+           x="-90.746216"
+           id="tspan358317-7"
+           sodipodi:role="line">optimization</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="570.49359"
+           x="-90.746216"
+           sodipodi:role="line"
+           id="tspan361326-9">constraints</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffb09b;fill-opacity:1;stroke:none;stroke-width:0.233292;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect80465"
+       width="20.279827"
+       height="8.1869192"
+       x="105.49032"
+       y="102.14024"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       id="text108976-5"
+       y="104.89098"
+       x="115.65865"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="104.89098"
+         x="115.65865"
+         id="tspan108974-0"
+         sodipodi:role="line">Bundle </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="109.3007"
+         x="115.65865"
+         sodipodi:role="line"
+         id="tspan4228">adjustment</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:0.95;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="111.50557"
+         x="115.65865"
+         sodipodi:role="line"
+         id="tspan327149-5" /></text>
+    <g
+       id="g5214"
+       transform="translate(-16.374079,-14.602414)">
+      <rect
+         style="fill:#ffcdac;fill-opacity:1;stroke:#ee5000;stroke-width:0.249038;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8"
+         id="rect108878-6"
+         width="95.165123"
+         height="22.117838"
+         x="50.42308"
+         y="133.31808"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+      <text
+         id="text108882-2"
+         y="136.957"
+         x="52.839996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           y="136.957"
+           x="52.839996"
+           id="tspan108880-5"
+           sodipodi:role="line">3.2.2 Map</tspan></text>
+      <rect
+         y="138.03384"
+         x="52.547699"
+         height="15.891203"
+         width="90.762085"
+         id="rect108926-9"
+         style="fill:#ffb09b;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <text
+         id="text108930-3"
+         y="141.4288"
+         x="91.311592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           y="141.4288"
+           x="91.311592"
+           id="tspan108928-5"
+           sodipodi:role="line">Keyframes</tspan></text>
+      <g
+         id="g5176">
+        <rect
+           style="fill:#ff977c;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1570"
+           width="23.935976"
+           height="3.8071284"
+           x="117.12231"
+           y="143.79321"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           id="text108936-1"
+           y="146.88388"
+           x="120.59288"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             y="146.88388"
+             x="120.59288"
+             id="tspan108934-7"
+             sodipodi:role="line">Transforms</tspan></text>
+      </g>
+      <g
+         id="g5171"
+         transform="translate(1.1149044)">
+        <rect
+           style="fill:#ff977c;fill-opacity:1;stroke:none;stroke-width:0.22883;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect80483"
+           width="17.847775"
+           height="3.8071284"
+           x="95.82505"
+           y="143.79321"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           id="text108942-0"
+           y="146.8819"
+           x="98.108513"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             y="146.8819"
+             x="98.108513"
+             id="tspan108940-4"
+             sodipodi:role="line">Features</tspan></text>
+      </g>
+      <g
+         id="g5186"
+         transform="translate(15.17639,0.04613713)">
+        <rect
+           style="fill:#ff977c;fill-opacity:1;stroke:none;stroke-width:0.230938;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1568"
+           width="18.178114"
+           height="3.8071284"
+           x="92.251808"
+           y="148.55577"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           id="text108954-0"
+           y="151.33572"
+           x="94.066566"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             y="151.33572"
+             x="94.066566"
+             id="tspan108952-9"
+             sodipodi:role="line">Semantic</tspan></text>
+      </g>
+      <g
+         id="g5181"
+         transform="translate(11.481655,0.04613713)">
+        <rect
+           style="fill:#ff977c;fill-opacity:1;stroke:none;stroke-width:0.212363;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1566"
+           width="15.371581"
+           height="3.8071284"
+           x="75.945168"
+           y="148.55577"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           id="text108960-4"
+           y="151.66426"
+           x="79.667374"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             y="151.66426"
+             x="79.667374"
+             id="tspan108958-3"
+             sodipodi:role="line">Scale</tspan></text>
+      </g>
+      <g
+         id="g5150">
+        <rect
+           style="fill:#ff977c;fill-opacity:1;stroke:none;stroke-width:0.276766;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect80481"
+           width="40.999329"
+           height="3.8599715"
+           x="53.606049"
+           y="143.76678"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           id="text108948-0"
+           y="146.57872"
+           x="54.949245"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             y="146.57872"
+             x="54.949245"
+             id="tspan108946-2"
+             sodipodi:role="line">Map points / depth map</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="matrix(2.5777432,0,0,0.14835962,1122.8803,148.09209)"
+       id="g1314"
+       style="fill:#ffb09b;fill-opacity:1;stroke-width:1.22358"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png">
+      <rect
+         y="-19.592852"
+         x="-453.57123"
+         height="38.024403"
+         width="70.983902"
+         id="rect1312"
+         style="opacity:1;fill:#ffb09b;fill-opacity:1;stroke:none;stroke-width:0.324248;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       id="text1320"
+       y="149.19106"
+       x="44.507168"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="149.19106"
+         x="44.507168"
+         sodipodi:role="line"
+         id="tspan1318">4.3 End-to-end back-end</tspan></text>
+    <g
+       style="fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:1.19307;stroke-opacity:1"
+       id="g1331"
+       transform="matrix(0.27652201,0,0,4.1237172,269.12401,76.948418)">
+      <rect
+         style="opacity:1;fill:url(#linearGradient1369);fill-opacity:1;stroke:none;stroke-width:0.316164;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1329"
+         width="70.983902"
+         height="38.024403"
+         x="-453.57123"
+         y="-19.592852" />
+    </g>
+    <text
+       id="text1339"
+       y="71.280273"
+       x="154.04898"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="71.280273"
+         x="154.04898"
+         id="tspan1335"
+         sodipodi:role="line">4.4</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="75.689995"
+         x="154.04898"
+         sodipodi:role="line"
+         id="tspan1397">End-to-end </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="80.099724"
+         x="154.04898"
+         sodipodi:role="line"
+         id="tspan1337">SLAM</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 26.385058,121.49159 7.139421,-0.0946"
+       id="path5304"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 26.385058,100.67997 8.064178,0.0223"
+       id="path5306"
+       sodipodi:nodetypes="cc" />
+    <rect
+       y="95.326454"
+       x="1.9137881"
+       height="32.847912"
+       width="24.341257"
+       id="rect108864-6"
+       style="fill:#ffcdac;fill-opacity:1;stroke:#ee5000;stroke-width:0.260025;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <text
+       id="text108876-0"
+       y="100.37318"
+       x="14.617545"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="100.37318"
+         x="14.617545"
+         id="tspan108874-7"
+         sodipodi:role="line">3.2.1 </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="104.7829"
+         x="14.617545"
+         sodipodi:role="line"
+         id="tspan4066">Keyframe </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="109.19263"
+         x="14.617545"
+         sodipodi:role="line"
+         id="tspan21513">selection</tspan></text>
+    <g
+       id="g4062"
+       transform="translate(-9.1176846,-16.511889)">
+      <g
+         id="g4051">
+        <rect
+           style="fill:#ffb09b;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect108920-0"
+           width="20.177221"
+           height="5.9162536"
+           x="13.11349"
+           y="135.86768"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           id="text108924-2"
+           y="139.70775"
+           x="14.3215"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+             y="139.70775"
+             x="14.3215"
+             id="tspan108922-2"
+             sodipodi:role="line">Covisibility</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4056"
+       transform="translate(1.9262249,-16.574954)">
+      <rect
+         style="fill:#ffb09b;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect80310"
+         width="20.177221"
+         height="5.9162536"
+         x="2.0695806"
+         y="128.55634"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <text
+         id="text108918-7"
+         y="132.69957"
+         x="5.5091524"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.264583"
+           y="132.69957"
+           x="5.5091524"
+           id="tspan108916-9"
+           sodipodi:role="line">Distance</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 129.30083,99.234823 h 3.09015 l 0.18883,30.559207 -2.71862,-0.0195"
+       id="path5944"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#ffe7d9;fill-opacity:1;stroke:#ee5000;stroke-width:0.243547;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8"
+       id="rect108888-9"
+       width="30.71273"
+       height="38.041992"
+       x="-46.188141"
+       y="105.18921"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+    <text
+       id="text108892-1"
+       y="108.83341"
+       x="-44.473797"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="108.83341"
+         x="-44.473797"
+         id="tspan108890-3"
+         sodipodi:role="line">3.1 Filter-based</tspan></text>
+    <g
+       id="g7785"
+       transform="translate(0.72298062,-8.9958338)">
+      <g
+         id="g6791"
+         transform="translate(-12.901376,18.954188)">
+        <rect
+           style="fill:#ffcdac;fill-opacity:1;stroke:#ee5000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8"
+           id="rect80308"
+           width="21.374945"
+           height="12.326063"
+           x="-29.340853"
+           y="119.0034"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+        <g
+           id="g6775">
+          <rect
+             style="fill:#ffb09b;fill-opacity:1;stroke:none;stroke-width:0.213911;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect6763"
+             width="19.924837"
+             height="3.9038196"
+             x="-28.615799"
+             y="125.6746"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300" />
+          <text
+             id="text108908-9"
+             y="124.14159"
+             x="-18.71158"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             xml:space="preserve"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+               y="124.14159"
+               x="-18.71158"
+               id="tspan108906-4"
+               sodipodi:role="line">Update</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+               y="128.55132"
+               x="-18.71158"
+               sodipodi:role="line"
+               id="tspan281629-4">Sensor-based</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g6783"
+         transform="translate(12.706933,1.76912)">
+        <rect
+           style="fill:#ffcdac;fill-opacity:1;stroke:#ee5000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.8"
+           id="rect108894-3"
+           width="21.374945"
+           height="12.326063"
+           x="-54.949162"
+           y="119.0034"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           inkscape:export-filename="/home/olaya/Downloads/pipeline.png" />
+        <g
+           id="g6769">
+          <rect
+             style="fill:#ffb09b;fill-opacity:1;stroke:none;stroke-width:0.209499;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect6752"
+             width="19.111389"
+             height="3.9038196"
+             x="-53.817383"
+             y="125.6746"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300" />
+          <text
+             id="text108898-1"
+             y="124.14867"
+             x="-44.267002"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             xml:space="preserve"
+             inkscape:export-xdpi="300"
+             inkscape:export-ydpi="300"
+             inkscape:export-filename="/home/olaya/Downloads/pipeline.png"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+               y="124.14867"
+               x="-44.267002"
+               id="tspan108896-5"
+               sodipodi:role="line">Prediction</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+               y="128.5584"
+               x="-44.267002"
+               sodipodi:role="line"
+               id="tspan273281-2">Model-based</tspan></text>
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+         d="m -27.019861,133.23108 v 4.72651"
+         id="path7119" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+         d="m -36.149213,137.82509 v -4.72651"
+         id="path7121" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:cmr10;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:cmr10;font-stretch:normal;font-variant:normal"
+       x="-47.505169"
+       y="108.12021"
+       id="text8858"><tspan
+         sodipodi:role="line"
+         id="tspan8856"
+         style="stroke-width:0.264583;-inkscape-font-specification:cmr10;font-family:cmr10;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="-47.505169"
+         y="108.12021" /></text>
+    <g
+       id="g8904"
+       transform="translate(0,-6.3500003)">
+      <g
+         id="g8881">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+           d="m -30.829313,106.99478 v 5.62554"
+           id="path8215" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-38.84713"
+           y="109.65627"
+           id="text8862"><tspan
+             sodipodi:role="line"
+             id="tspan8860"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;stroke-width:0.264583"
+             x="-38.84713"
+             y="109.65627">state vector</tspan></text>
+      </g>
+      <g
+         id="g8886">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.282768px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+           d="m -16.084075,98.029612 12.8110855,-3e-6"
+           id="path8536"
+           sodipodi:nodetypes="cc" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-13.62543"
+           y="96.315224"
+           id="text8876"><tspan
+             sodipodi:role="line"
+             id="tspan8874"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;stroke-width:0.264583"
+             x="-13.62543"
+             y="96.315224">graph</tspan></text>
+      </g>
+      <g
+         id="g8213"
+         transform="translate(-3.3061692,-0.89774222)">
+        <g
+           id="g7847"
+           style="fill:#ffb09b;fill-opacity:1;stroke:none;stroke-width:1.17621"
+           transform="matrix(1.106631,0,0,0.8470828,-49.482853,82.11826)">
+          <title
+             id="title7841">Decision</title>
+          <desc
+             id="desc7843">A decision or switching type operation.</desc>
+          <path
+             inkscape:connector-curvature="0"
+             d="m 3.96875,19.84375 15.875,-10.5833333 15.875,10.5833333 -15.875,10.583333 z"
+             style="fill:#ffb09b;fill-opacity:1;stroke-width:4.88728"
+             id="path7845" />
+        </g>
+        <text
+           id="text7853"
+           y="97.890671"
+           x="-27.475721"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'TeX Gyre Termes Math';-inkscape-font-specification:'TeX Gyre Termes Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             y="97.890671"
+             x="-27.475721"
+             sodipodi:role="line"
+             id="tspan8186">Map structure </tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             y="102.35007"
+             x="-27.475721"
+             sodipodi:role="line"
+             id="tspan8188">&amp; processing</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 109.09822,11.964461 2.4231,-0.03828"
+       id="path9637" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 109.09822,33.662202 2.62884,-3e-6"
+       id="path9957" />
+    <rect
+       style="fill:#dcf0f5;fill-opacity:1;stroke:#5f89d3;stroke-width:0.19018;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8987"
+       width="155.12964"
+       height="19.246292"
+       x="-25.214939"
+       y="53.414589"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       y="55.101074"
+       x="9.8461103"
+       height="10.628738"
+       width="115.8962"
+       id="rect8989"
+       style="fill:#c0e6ee;fill-opacity:1;stroke:#5f89d3;stroke-width:0.170352;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-22.216948"
+       y="57.802223"
+       id="text8993"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan8991"
+         x="-22.216948"
+         y="57.802223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">2.2 Loop detection/</tspan><tspan
+         sodipodi:role="line"
+         x="-22.216948"
+         y="62.211948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         id="tspan9196">     relocalization</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-64.386215"
+       y="15.556525"
+       id="text8997"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan8995"
+         x="-64.386215"
+         y="15.556525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">BoW</tspan></text>
+    <g
+       id="g9178"
+       transform="translate(53.081578,11.21512)">
+      <g
+         transform="matrix(0.47924062,0,0,0.22399756,183.62644,49.330686)"
+         id="g9003"
+         style="fill:#aaccee;fill-opacity:1;stroke-width:2.40229"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600">
+        <g
+           id="g9001"
+           style="fill:#aaccee;fill-opacity:1;stroke-width:2.40229">
+          <rect
+             y="-19.592852"
+             x="-456.88379"
+             height="38.024403"
+             width="70.983902"
+             id="rect8999"
+             style="opacity:1;fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.636608;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-18.33548"
+         y="50.042084"
+         id="text9009"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"><tspan
+           sodipodi:role="line"
+           x="-18.33548"
+           y="50.042084"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan9007">Image representation</tspan></text>
+    </g>
+    <g
+       id="g9186"
+       transform="translate(59.609023,11.21512)">
+      <g
+         transform="matrix(0.47932251,0,0,0.22399756,218.74028,49.330686)"
+         id="g9015"
+         style="fill:#aaccee;fill-opacity:1;stroke-width:2.40229"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600">
+        <g
+           id="g9013"
+           style="fill:#aaccee;fill-opacity:1;stroke-width:2.40229">
+          <rect
+             y="-19.592852"
+             x="-464.61127"
+             height="38.024403"
+             width="70.983902"
+             id="rect9011"
+             style="opacity:1;fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.636608;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="12.986536"
+         y="47.965897"
+         id="text9023"><tspan
+           sodipodi:role="line"
+           x="12.986536"
+           y="47.965897"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan9019">Candidate selection</tspan><tspan
+           sodipodi:role="line"
+           x="12.986536"
+           y="52.375622"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan9021">Appearance-based</tspan></text>
+    </g>
+    <g
+       id="g9194"
+       transform="translate(61.54825,11.21512)">
+      <g
+         transform="matrix(0.40556718,0,0,0.22399756,221.25338,49.330686)"
+         id="g9031"
+         style="fill:#aaccee;fill-opacity:1;stroke-width:2.40229"
+         inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600">
+        <g
+           id="g9029"
+           style="fill:#aaccee;fill-opacity:1;stroke-width:2.40229">
+          <rect
+             y="-19.592852"
+             x="-466.61871"
+             height="38.024403"
+             width="70.983902"
+             id="rect9027"
+             style="opacity:1;fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.636608;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="46.380016"
+         y="47.95005"
+         id="text9039"><tspan
+           sodipodi:role="line"
+           x="46.380016"
+           y="47.95005"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan9035">Loop verification</tspan><tspan
+           sodipodi:role="line"
+           x="46.380016"
+           y="52.359776"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan9037">Geometry-based</tspan></text>
+    </g>
+    <g
+       style="fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:1.98473;stroke-opacity:1"
+       id="g9045"
+       transform="matrix(1.6348527,0,0,0.10843752,751.2924,68.953423)">
+      <rect
+         style="opacity:1;fill:#aaccee;fill-opacity:1;stroke:none;stroke-width:0.525951;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect9043"
+         width="70.983902"
+         height="38.024403"
+         x="-453.57123"
+         y="-19.592852" />
+    </g>
+    <text
+       id="text9051"
+       y="69.772301"
+       x="67.777138"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-filename="/home/olaya/Downloads/pipeline.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:cmr10;-inkscape-font-specification:cmr10;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="69.772301"
+         x="67.777138"
+         sodipodi:role="line"
+         id="tspan9049">4.3 End-to-end loop detection</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 51.76911,60.415742 h 3.881554"
+       id="path10277"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 89.674839,60.415742 h 3.881555"
+       id="path10755"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 80.826982,28.824787 h 1.5875"
+       id="path11075" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 80.826982,33.587361 h 1.5875"
+       id="path11395" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 80.826982,38.349936 h 1.5875"
+       id="path11715" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 30.302065,11.965175 3.565564,2e-5"
+       id="path12035" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 54.426286,11.965195 h 3.565565"
+       id="path12355" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 78.133558,11.965195 h 3.565554"
+       id="path12675" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 133.3228,26.015855 h 3.09015 l 0.12273,37.021879 -6.62098,10e-7"
+       id="path14737"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m -30.802674,50.338929 -0.02664,32.375928"
+       id="path14827"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker78615)"
+       d="m 47.98811,72.755971 0.0075,18.981329"
+       id="path17971"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
