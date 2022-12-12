@@ -7,3 +7,6 @@
 [submodule "algorithms/dso"]
 	path = algorithms/dso
 	url = https://github.com/olayasturias/dso
+[submodule "algorithms/DF-VO"]
+	path = algorithms/DF-VO
+	url = git@github.com:olayasturias/DF-VO.git
