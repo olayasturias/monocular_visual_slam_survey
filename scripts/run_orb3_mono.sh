@@ -52,7 +52,7 @@ if [[ $datasetName == *"TUM"* ]]; then
 fi
 
 mkdir --parents ../results/ORB_SLAM3/"$datasetName"/"$track"
-mv $resultfile ../results/ORB_SLAM3/"$datasetName"/"$track"/kf_out.txt
+mv $resultfile ../results/ORB_SLAM3/"$datasetName"/"$track"/result.txt
 
 
 done
