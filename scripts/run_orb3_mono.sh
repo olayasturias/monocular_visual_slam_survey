@@ -52,7 +52,19 @@ if [[ $datasetName == *"TUM"* ]]; then
 fi
 
 mkdir --parents ../results/ORB_SLAM3/"$datasetName"/"$track"
-mv $resultfile ../results/ORB_SLAM3/"$datasetName"/"$track"/result.txt
+#if file exists, rename with index
+if [ -f ../results/ORB_SLAM3/"$datasetName"/"$track"/result.txt ]; then
+  i=1
+  while [ -f ../results/ORB_SLAM3/"$datasetName"/"$track"/result"_$i".txt ]; do
+    let i++
+  done
+  mv $resultfile ../results/ORB_SLAM3/"$datasetName"/"$track"/result"_$i".txt
+elif
+  mv $resultfile ../results/ORB_SLAM3/"$datasetName"/"$track"/result.txt
+fi
+
+
+
 
 
 done
