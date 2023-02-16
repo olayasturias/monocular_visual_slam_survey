@@ -59,12 +59,9 @@ if [ -f ../results/ORB_SLAM3/"$datasetName"/"$track"/result.txt ]; then
     let i++
   done
   mv $resultfile ../results/ORB_SLAM3/"$datasetName"/"$track"/result"_$i".txt
-elif
+else
   mv $resultfile ../results/ORB_SLAM3/"$datasetName"/"$track"/result.txt
 fi
-
-
-
 
 
 done
