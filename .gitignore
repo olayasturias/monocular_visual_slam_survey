@@ -352,6 +352,5 @@ MigrationBackup/
 *.yaml
 *.yml
 *.json
-*.txt
 *.jpg
 *.pdf
