@@ -10,13 +10,13 @@ export RUN_TrianFlow=false
 export RUN_DSO=false
 
 export MIMIR_tracks='SeaFloor/track0'
-export AQUALOC_tracks='1'
-export EUROC_tracks='MH_04_difficult'
-export TUM_tracks='rgbd_dataset_freiburg1_360'
+# export AQUALOC_tracks='1'
+# export EUROC_tracks='MH_04_difficult'
+# export TUM_tracks='rgbd_dataset_freiburg1_360'
 
 START=1
 END=10
-for i in {$START..$END}
+for (( c=$START; c<=$END; c++ ))
 do
     if [ "$RUN_ORB" = true ] ; then
         echo "########################################################################"
