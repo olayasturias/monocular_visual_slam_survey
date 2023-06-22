@@ -353,4 +353,5 @@ MigrationBackup/
 *.yml
 *.json
 *.jpg
+result.txt
 *.pdf
