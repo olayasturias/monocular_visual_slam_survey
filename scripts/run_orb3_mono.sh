@@ -17,6 +17,7 @@ fi
 if [[ $datasetName == *"MIMIR"* ]]; then
   configfile=../algorithms/ORB_SLAM3/Examples/Monocular/MIMIR.yaml
   resultfile=kf_out.txt
+  echo ../algorithms/ORB_SLAM3/Examples/Monocular/mono_mimir $orb_vocab $configfile "$datasetRoot"/MIMIR/"$track"/auv0/rgb/cam0/data ../algorithms/ORB_SLAM3/Examples/Monocular/MIMIR_TimeStamps/"$track"/timestamps.txt out
   ../algorithms/ORB_SLAM3/Examples/Monocular/mono_mimir $orb_vocab $configfile "$datasetRoot"/MIMIR/"$track"/auv0/rgb/cam0/data ../algorithms/ORB_SLAM3/Examples/Monocular/MIMIR_TimeStamps/"$track"/timestamps.txt out
 fi
 
@@ -51,7 +52,16 @@ if [[ $datasetName == *"TUM"* ]]; then
 fi
 
 mkdir --parents ../results/ORB_SLAM3/"$datasetName"/"$track"
-mv $resultfile ../results/ORB_SLAM3/"$datasetName"/"$track"/kf_out.txt
+#if file exists, rename with index
+if [ -f ../results/ORB_SLAM3/"$datasetName"/"$track"/result.txt ]; then
+  i=1
+  while [ -f ../results/ORB_SLAM3/"$datasetName"/"$track"/result"_$i".txt ]; do
+    let i++
+  done
+  mv $resultfile ../results/ORB_SLAM3/"$datasetName"/"$track"/result"_$i".txt
+else
+  mv $resultfile ../results/ORB_SLAM3/"$datasetName"/"$track"/result.txt
+fi
 
 
 done
