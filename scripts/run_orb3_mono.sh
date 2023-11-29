@@ -1,8 +1,16 @@
 #!/bin/bash
 
-datasetName=$1
-datasetRoot=$2
-tracks=$3
+# Check if all three arguments are provided
+if [ "$#" -ne 3 ]; then
+    echo "Usage: $0 <DatasetName> <DatasetRoot> <Tracks>"
+    echo "Example: $0 TUM $HOME/Datasets rgbd_dataset_freiburg1_xyz"
+    exit 1
+fi
+
+datasetName="$1"
+datasetRoot="$2"
+tracks="$3"
+
 orb_vocab=../algorithms/ORB_SLAM3/Vocabulary/ORBvoc.txt
 
 for track in $tracks

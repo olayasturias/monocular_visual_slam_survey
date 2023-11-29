@@ -1,7 +1,22 @@
-datasetName=$1
-datasetRoot=$2
-tracks=$3
-model_zoo_dir=$4
+#!/bin/bash
+
+# Check if all four arguments are provided
+if [ "$#" -ne 4 ]; then
+    echo "Usage: $0 <DatasetName> <DatasetRoot> <Tracks> <ModelZooDir>"
+    echo "Example: $0 TUM $HOME/Datasets rgbd_dataset_freiburg1_xyz $HOME/dev/monocular_visual_slam_survey/algorithms/DF-VO/model_zoo"
+    exit 1
+fi
+
+
+datasetName="$1"
+datasetRoot="$2"
+tracks="$3"
+model_zoo_dir="$4"
+
+echo "Dataset Name: $datasetName"
+echo "Dataset Root: $datasetRoot"
+echo "Tracks: $tracks"
+echo "Model Zoo Directory: $model_zoo_dir"
 
 
 for track in $tracks

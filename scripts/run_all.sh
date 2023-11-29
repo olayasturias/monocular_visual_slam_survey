@@ -1,18 +1,18 @@
 #!/bin/bash
-datasetRoot=$HOME/Olaya-data/Datasets
+datasetRoot=$HOME/Datasets
 
 CONDA_BASE=$(conda info --base)
 source "$CONDA_BASE"/etc/profile.d/conda.sh
 
 export RUN_ORB=true
-export RUN_DFVO=false
-export RUN_TrianFlow=false
-export RUN_DSO=false
+export RUN_DFVO=true
+export RUN_TrianFlow=true
+export RUN_DSO=true
 
 export MIMIR_tracks='SeaFloor/track0'
-# export AQUALOC_tracks='1'
-# export EUROC_tracks='MH_04_difficult'
-# export TUM_tracks='rgbd_dataset_freiburg1_360'
+export AQUALOC_tracks='1'
+export EUROC_tracks='MH_04_difficult'
+export TUM_tracks='rgbd_dataset_freiburg1_360'
 
 START=1
 END=10
@@ -48,7 +48,6 @@ do
         echo "#### 2.1 dataset TUM-RGBD ########################################################"
         datasetName=TUM
         ./generate_dfvo_configs.sh $datasetName $datasetRoot "${TUM_tracks[@]}" ../algorithms/DF-VO/model_zoo
-        export PYTHONPATH="${PYTHONPATH}:$PWD/../algorithms/DF-VO"
         ./run_dfvo.sh $datasetName $datasetRoot "${TUM_tracks[@]}" 
 
         echo "#### 2.2 dataset MIMIR ###############################################################"
@@ -77,7 +76,6 @@ do
         conda activate trianflow
         echo "#### 3.1 dataset TUM-RGBD ########################################################"
         datasetName=TUM
-        export PYTHONPATH="${PYTHONPATH}:$PWD/../algorithms/TrianFlow"
         ./run_trianflow.sh $datasetName $datasetRoot "${TUM_tracks[@]}"
 
         echo "#### 3.2 dataset MIMIR ###############################################################"
