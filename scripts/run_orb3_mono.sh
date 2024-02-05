@@ -16,6 +16,14 @@ orb_vocab=../algorithms/ORB_SLAM3/Vocabulary/ORBvoc.txt
 for track in $tracks
 do 
 echo "Launching ORB_SLAM for track $track from $datasetName dataset with Monocular sensor"
+
+if [[ $datasetName == *"SubPipe"* ]]; then
+  configfile=../algorithms/ORB_SLAM3/Examples/Monocular/SubPipe.yaml
+  resultfile=kf_out.txt
+  echo ../algorithms/ORB_SLAM3/Examples/Monocular/mono_subpipe $orb_vocab $configfile "$datasetRoot"/SubPipe/DATA/"$track"
+  ../algorithms/ORB_SLAM3/Examples/Monocular/mono_subpipe $orb_vocab $configfile "$datasetRoot"/SubPipe/DATA/"$track"
+fi
+
 if [[ $datasetName == *"Aqualoc"* ]]; then
   configfile=../algorithms/ORB_SLAM3/Examples/Monocular/Aqualoc.yaml
   resultfile=KeyFrameTrajectory.txt

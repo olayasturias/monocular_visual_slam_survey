@@ -13,7 +13,7 @@ tracks="$3"
 
 for track in $tracks
 do
-    result_directory="../results/DSO/"$datasetName"/"$track
+    result_directory="../results/dso/"$datasetName"/"$track
     mkdir --parents $result_directory
     echo "$result_directory"/result.txt
 
@@ -29,12 +29,15 @@ do
     if [[ $datasetName == *"EuRoC"* ]]; then
         imgpath=$datasetName\/$track/mav0/cam0/data
     fi
-    ../algorithms/DSO/build/bin/dso_dataset \
+    if [[ $datasetName == *"SubPipe"* ]]; then
+        imgpath=$datasetName/DATA\/$track/Cam0_images
+    fi
+    ../algorithms/dso/build/bin/dso_dataset \
         calib=../configs/dso/"$datasetName".txt \
         files=$datasetRoot/$imgpath \
-        preset=2 \
+        preset=4 \
         mode=1 \
-        nolog=1 \
+        nolog=0 \
         start=0
 
     #if file exists, rename with index
